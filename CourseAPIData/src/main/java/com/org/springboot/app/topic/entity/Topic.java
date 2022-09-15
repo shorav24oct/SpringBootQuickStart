@@ -1,4 +1,4 @@
-package com.org.springboot.app.topic;
+package com.org.springboot.app.topic.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

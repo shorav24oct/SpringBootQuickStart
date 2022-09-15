@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.org.springboot.app.topic.Topic;
+import com.org.springboot.app.topic.entity.Topic;
 import com.org.springboot.app.topic.service.TopicService;
 
 @RestController
