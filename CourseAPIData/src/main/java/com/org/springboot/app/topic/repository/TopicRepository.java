@@ -1,4 +1,4 @@
-package com.org.springboot.app.repository;
+package com.org.springboot.app.topic.repository;
 
 import org.springframework.data.repository.CrudRepository;
 

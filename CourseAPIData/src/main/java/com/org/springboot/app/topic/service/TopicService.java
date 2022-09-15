@@ -7,8 +7,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.org.springboot.app.repository.TopicRepository;
 import com.org.springboot.app.topic.Topic;
+import com.org.springboot.app.topic.repository.TopicRepository;
 
 @Service
 public class TopicService {
